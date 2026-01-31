@@ -24,3 +24,22 @@ Innomatics_Hacathon/
 - Clean and preprocess datasets
 - Visualize insights using Python
 
+## How to Run the Project
+
+1. Clone the repository:
+
+```bash
+https://github.com/gayathrikota02/Innomatics_Hacathon.git
+
+
+2. Open Jupyter Notebook:
+
+jupyter notebook
+
+
+3. Open the file:
+
+food_delivery_analysis1.ipynb
+
+
+Run the cells step-by-step.
